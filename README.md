@@ -1,2 +1,6 @@
 # hello-world
-Just new repository
+
+Hey humans!
+
+
+Blackdevil here, i like node js. So i am here 
